@@ -973,6 +973,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: background-color 250ms var(--timing-function);
 }
 
 .check-box-icon {
